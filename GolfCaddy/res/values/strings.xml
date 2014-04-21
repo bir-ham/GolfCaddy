@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GolfCaddy</string>
+    
+    <string name="clickMe">Click me!</string>
+    <string name="yourScore">Your score is: </string>
+    <string name="score"> Score</string>
+    <string name="timeStamp">Timestamp Goes here</string>
+    
+    <string name="ok">Ok</string>
+    <string name="preferences">Preferences</string>
+    <string name="about">About</string>
+    <string name="golfCaddy">Golf Caddy</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+        
+</resources>
